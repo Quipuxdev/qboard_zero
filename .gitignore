@@ -1,0 +1,20 @@
+# Altium Designer generated files
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+*.PrjPcbPreview
+*.PcbDocPreview
+*.SchDocPreview
+*.PcbLibPreview
+*.SchLibPreview
+*.IntLibPreview
+*.PcbDoc.htm
+*.SchDoc.htm
+*.PrjPcb.htm
+*.bak
+*.Bkp
+*.LOG
+*.log
+*.DsnWrk
+*.~*
